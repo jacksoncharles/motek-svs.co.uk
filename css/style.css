@@ -60,3 +60,15 @@ footer.page-footer {
     height: 100vh !important;
     margin-bottom: 0px !important;
 }
+
+#seo {
+    font-size: 1em;
+}
+
+h1.seo {
+    font-size: 1.2em;
+}
+
+h2.seo {
+    font-size: 1.1em;
+}
